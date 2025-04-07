@@ -1,7 +1,3 @@
-# asternberg.github.io
-
-# Date April 7, 2025
-
 
 # Date: March 9, 2025
 for comparison - this is what gpt4.5 says about my backyard with a low quality image and about about 2sec processing time. This is so much better - and I don't have to rely on classifications/multiple passes. Can't wait to have this level of a multimodal LLM running locally. 
